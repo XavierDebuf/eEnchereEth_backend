@@ -1,0 +1,22 @@
+{
+    "name": "enchere_devise_ETH",
+    "version": "0.0.1",
+    "description": "to Sell and to buy NFT in auctions Ethereum Smart Contract driven",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "nodemon app.js"
+    },
+    "repository": {},
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "body-parser": "latest",
+        "express": "latest",
+        "express-validator": "^7.0.1",
+        "mongoose": "latest"
+    },
+    "devDependencies": {
+        "nodemon": "^3.0.1"
+    }
+}
